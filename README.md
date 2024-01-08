@@ -23,10 +23,10 @@ Shiash Info Solutions – Data Analyst Intern April 2023 – June 2023
 
 ## EDUCATION
 - MCA - MASTER OF COMPUTER APPLICATIONS 2022 – 2024
-  Guru Nanak College, CPGA – 8.6
+   Guru Nanak College, CPGA – 8.6
 
 - BCA - BACHELOR OF COMPUTER APPLICATIONS – BCA 2019 - 2022
-  Sri Sankara Arts and Science College, CGPA – 8.4
+   Sri Sankara Arts and Science College, CGPA – 8.4
 
 ## PROJECTS
 T20 World Cup – Cricket Analysis [Python | Web scrapping | Pandas | Power BI]
