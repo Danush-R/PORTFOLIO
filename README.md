@@ -1,11 +1,12 @@
 # DANUSH RAJARAM
 
-+91 9444373027   Chennai, IN
- danush1503@gmail.com
++91 9444373027  
+Chennai, IN
+danush1503@gmail.com
  | LinkedIn | Portfolio | GitHub | NovyPro
 
 ### FUNCTIONAL AREA
-- |  Data Analysis  | Data Exploration |  Data Cleaning  |  Data Visualization
+|  Data Analysis  | Data Exploration |  Data Cleaning  |  Data Visualization
 
 ### EXPERIENCE
 Neubaitics Tech Pvt. Ltd – Data Analyst Intern December 2023 – present
