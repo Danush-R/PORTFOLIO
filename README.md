@@ -21,21 +21,21 @@
   - SQL - DDL, DML, TCL, JOINS
   - Tools - Excel, Power BI, Tableau 
 
-### EDUCATION
-  - MCA - MASTER OF COMPUTER APPLICATIONS | 2022 – 2024 |
+### EDUCATION  
+| MCA - MASTER OF COMPUTER APPLICATIONS | 2022 – 2024 |
 Guru Nanak College  
-CPGA – 8.6
+CPGA – 8.6  
 
-  - BCA - BACHELOR OF COMPUTER APPLICATIONS | 2019 – 2022 |    
+| BCA - BACHELOR OF COMPUTER APPLICATIONS | 2019 – 2022 |    
 Sri Sankara Arts and Science College  
 CPGA – 8.6
 
 ### PROJECTS
-| T20 World Cup – Cricket Analysis [Python | Web scrapping | Pandas | Power BI] |    
-| Walmart Sales Analysis – Sales Domain [SQL | EDA] |  
-| Super Store Sales Insights & Forecasting - Sales Domain [Power BI | Excel]|  
-| Revenue Insights - Hospitality Domain [Power BI | Excel]|  
-| Covid 19 Vaccine Tracker – Healthcare Domain [Tableau | Excel] |   
+| T20 World Cup – Cricket Analysis Python | Web scrapping | Pandas | Power BI |      
+| Walmart Sales Analysis – Sales Domain | SQL | EDA |    
+| Super Store Sales Insights & Forecasting - Sales Domain | Power BI | Excel|  
+| Revenue Insights - Hospitality Domain | Power BI | Excel |  
+| Covid 19 Vaccine Tracker – Healthcare Domain | Tableau | Excel] |   
 
 ### CERTIFICATIONS
 - DATA SCIENCE For Beginners (NASSCOM FutureSkills Prime)
