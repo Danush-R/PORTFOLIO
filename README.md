@@ -29,7 +29,7 @@ CPGA – 8.6
 
   - BCA - BACHELOR OF COMPUTER APPLICATIONS | 2019 – 2022  
 Sri Sankara Arts and Science College
-CPGA – 8.4
+ CPGA – 8.4
 
 ## PROJECTS
 T20 World Cup – Cricket Analysis [Python | Web scrapping | Pandas | Power BI]
