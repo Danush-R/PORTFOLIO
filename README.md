@@ -32,9 +32,9 @@ CPGA – 8.6
 
 ### PROJECTS
 T20 World Cup – Cricket Analysis [Python | Web scrapping | Pandas | Power BI] 
-Walmart Sales Analysis–Sales Domain [SQL | EDA]
-Super Store Sales Insights & Forecasting - Sales Domain [Power BI | Excel]
-Revenue Insights - Hospitality Domain [Power BI | Excel]
+Walmart Sales Analysis–Sales Domain [SQL | EDA] 
+Super Store Sales Insights & Forecasting - Sales Domain [Power BI | Excel] 
+Revenue Insights - Hospitality Domain [Power BI | Excel] 
 Covid 19 Vaccine Tracker – Healthcare Domain [Tableau | Excel]
 
 ### CERTIFICATIONS
