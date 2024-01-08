@@ -8,7 +8,7 @@
 |  Data Analysis  | Data Exploration |  Data Cleaning  |  Data Visualization |
 
 ### EXPERIENCE
-| Data Analyst Intern - Neubaitics Tech Pvt. Ltd, Guindy, Chennai | December 2023 – present |
+| Data Analyst Intern | Neubaitics Tech Pvt. Ltd, Guindy, Chennai | December 2023 – present |
   - Led data collection, cleaning, and analysis, driving a 30% increase in data accuracy and a 20% improvement in insights generation.
   - Developed compelling visual representations and detailed reports, resulting in a 40% increase in information comprehension and stakeholder engagement.
 
@@ -22,7 +22,7 @@
   - Tools - Excel, Power BI, Tableau 
 
 ### EDUCATION
-  - MCA - MASTER OF COMPUTER APPLICATIONS | 2022 – 2024  
+| MCA - MASTER OF COMPUTER APPLICATIONS | 2022 – 2024 |
 Guru Nanak College  
 CPGA – 8.6
 
@@ -31,11 +31,11 @@ Sri Sankara Arts and Science College
 CPGA – 8.6
 
 ### PROJECTS
-- T20 World Cup – Cricket Analysis [Python | Web scrapping | Pandas | Power BI]
-- Walmart Sales Analysis – Sales Domain [SQL | EDA]  
-- Super Store Sales Insights & Forecasting - Sales Domain [Power BI | Excel]
-- Revenue Insights - Hospitality Domain [Power BI | Excel]
-- Covid 19 Vaccine Tracker – Healthcare Domain [Tableau | Excel] 
+T20 World Cup – Cricket Analysis [Python | Web scrapping | Pandas | Power BI]
+Walmart Sales Analysis – Sales Domain [SQL | EDA]  
+Super Store Sales Insights & Forecasting - Sales Domain [Power BI | Excel]  
+Revenue Insights - Hospitality Domain [Power BI | Excel]  
+Covid 19 Vaccine Tracker – Healthcare Domain [Tableau | Excel] 
 
 ### CERTIFICATIONS
 - DATA SCIENCE For Beginners (NASSCOM FutureSkills Prime)
