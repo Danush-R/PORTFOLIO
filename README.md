@@ -32,23 +32,10 @@ CPGA – 8.6
 
 ## PROJECTS
 T20 World Cup – Cricket Analysis [Python | Web scrapping | Pandas | Power BI]
-- Produced Power BI report showcasing top 11 T20 cricket players via espncricinfo scraping, employing pandas for data processing and assessing player performance metrics.
-- Utilized Power BI dashboard to categorize players (openers, middle order/anchors, finishers, all-rounders, specialist fast bowlers) for strategic selection.
-
 Walmart Sales Analysis–Sales Domain [SQL | EDA]
-- Analyse sales data from 45 stores (Kaggle data), exploring top branches, products, and customer behaviour, especially during holiday sales predictions.
-- Investigates Product, Sales, and Customer domains, using precise data management, innovative features, and insightful analysis to enhance strategies and     
-  branch performance.
-
 Super Store Sales Insights & Forecasting - Sales Domain [Power BI | Excel]
-- Cash on Delivery (COD) significantly drives sales, comprising a substantial portion. Notably, customer-centric sales hold a notable 48.09%, with corporate      clients following at 32.55%.
-- Office supplies top sales, highlighting their pivotal role, while standard class shipping is preferred by most customers. The Next 15 Days Forecast is          crucial for strategic business planning.
-
 Revenue Insights - Hospitality Domain [Power BI | Excel]
-- Investigated market share and revenue decline at Atliq Grands, performing a thorough revenue analysis using Power BI over a 3-month period, uncovering          valuable insights into revenue trends.
-
 Covid 19 Vaccine Tracker – Healthcare Domain [Tableau | Excel]
-- Crafted Tableau dashboard analysing vaccination statuses (fully, partially, unvaccinated) & key charts: Country-wise vaccination rates, Booster doses, new      vaccinations, & GDP impact.
   
 ## CERTIFICATIONS
 - DATA SCIENCE For Beginners (NASSCOM FutureSkills Prime)
