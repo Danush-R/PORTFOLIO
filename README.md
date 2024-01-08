@@ -2,11 +2,11 @@
 
 +91 9444373027   Chennai, IN
 
-[danush1503@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=jrjtWvNcsMsPCZjtdcvbggptFpntcxSkKDHCsjGCZwmsRVPgxzjrZDjKDGHJmRQpxrqfBnvX) |
-[LinkedIn](https://www.linkedin.com/in/danushrajaram/) | 
-[Portfolio](https://danush-r.github.io/portfolio/) | 
-[GitHub](https://github.com/Danush-R) |
-[NovyPro](https://www.novypro.com/profile_projects/danush) |
+[danush1503@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=jrjtWvNcsMsPCZjtdcvbggptFpntcxSkKDHCsjGCZwmsRVPgxzjrZDjKDGHJmRQpxrqfBnvX) 
+[LinkedIn](https://www.linkedin.com/in/danushrajaram/)
+[Portfolio](https://danush-r.github.io/portfolio/)
+[GitHub](https://github.com/Danush-R)
+[NovyPro](https://www.novypro.com/profile_projects/danush)
 
 ### FUNCTIONAL AREA
 |  Data Analysis  | Data Exploration |  Data Cleaning  |  Data Visualization
