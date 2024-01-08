@@ -4,7 +4,7 @@
  danush1503@gmail.com
  | LinkedIn | Portfolio | GitHub | NovyPro
 
-## FUNCTIONAL AREA
+### FUNCTIONAL AREA
 - |  Data Analysis  | Data Exploration |  Data Cleaning  |  Data Visualization
 
 ### EXPERIENCE
@@ -16,12 +16,12 @@ Shiash Info Solutions – Data Analyst Intern April 2023 – June 2023
   - Managed the data analysis team, utilizing Python to process large datasets, delivering 30% more actionable insights for clients.
   - Crafted interactive Tableau & Power BI dashboards, enhancing decision-making by 25% through improved data pattern recognition.Created interactive Tableau      & Power BI dashboards, aiding clients in spotting data patterns, enhancing decision-making by 25%
 
-## SKILLS
+### SKILLS
   - Python - Pandas, Numpy, Matplotlib
   - SQL - DDL, DML, TCL, JOINS
   - Tools - Excel, Power BI, Tableau 
 
-## EDUCATION
+### EDUCATION
   - MCA - MASTER OF COMPUTER APPLICATIONS | 2022 – 2024  
 Guru Nanak College  
 CPGA – 8.6
@@ -30,28 +30,28 @@ CPGA – 8.6
 Sri Sankara Arts and Science College  
 CPGA – 8.6
 
-## PROJECTS
+### PROJECTS
 T20 World Cup – Cricket Analysis [Python | Web scrapping | Pandas | Power BI] 
 Walmart Sales Analysis–Sales Domain [SQL | EDA]
 Super Store Sales Insights & Forecasting - Sales Domain [Power BI | Excel]
 Revenue Insights - Hospitality Domain [Power BI | Excel]
 Covid 19 Vaccine Tracker – Healthcare Domain [Tableau | Excel]
 
-## CERTIFICATIONS
+### CERTIFICATIONS
 - DATA SCIENCE For Beginners (NASSCOM FutureSkills Prime)
 - Python Course (NASSCOM FutureSkills Prime)
 - Ethical Hacking Workshop by AZURE Skynet
 - INFOSYS Springboard Workshop
 
-## POSITIONS HELD
+### POSITIONS HELD
 - MCA DEPARTMENT ASSOCIATION MEMBER - Co-Ordinator & Class Representative
 - Placement Coordinator BCA Department
 
-## AWARDS & HONORS
+### AWARDS & HONORS
 - Recognition for the Contribution to the MCA Department (Guru Nanak College)
 - Best Outgoing Student of the Year (Sri Sankara Arts and Science College)
 
-## LANGUAGES
+### LANGUAGES
  - English - Working Proficiency
  - Tamil - Native Language
  - Hindi - Elementary Proficiency
