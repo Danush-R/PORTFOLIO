@@ -2,17 +2,17 @@
 
 +91 9444373027   Chennai, IN
 
-[danush1503@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=jrjtWvNcsMsPCZjtdcvbggptFpntcxSkKDHCsjGCZwmsRVPgxzjrZDjKDGHJmRQpxrqfBnvX) |  [LinkedIn](https://www.linkedin.com/in/danushrajaram/) |  [Portfolio](https://danush-r.github.io/portfolio/) |  [GitHub](https://github.com/Danush-R) |  [NovyPro](https://www.novypro.com/profile_projects/danush)
+| [danush1503@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=jrjtWvNcsMsPCZjtdcvbggptFpntcxSkKDHCsjGCZwmsRVPgxzjrZDjKDGHJmRQpxrqfBnvX) |  [LinkedIn](https://www.linkedin.com/in/danushrajaram/) |  [Portfolio](https://danush-r.github.io/portfolio/) |  [GitHub](https://github.com/Danush-R) |  [NovyPro](https://www.novypro.com/profile_projects/danush) |
 
 ### FUNCTIONAL AREA
-|  Data Analysis  | Data Exploration |  Data Cleaning  |  Data Visualization
+|  Data Analysis  | Data Exploration |  Data Cleaning  |  Data Visualization |
 
 ### EXPERIENCE
-Neubaitics Tech Pvt. Ltd – Data Analyst Intern December 2023 – present
+| Data Analyst Intern - Neubaitics Tech Pvt. Ltd, Guindy, Chennai | December 2023 – present |
   - Led data collection, cleaning, and analysis, driving a 30% increase in data accuracy and a 20% improvement in insights generation.
   - Developed compelling visual representations and detailed reports, resulting in a 40% increase in information comprehension and stakeholder engagement.
 
-Shiash Info Solutions – Data Analyst Intern April 2023 – June 2023
+| Data Analyst Intern - Shiash Info Solutions, Shollinganallur, Chennai | April 2023 – June 2023 |
   - Managed the data analysis team, utilizing Python to process large datasets, delivering 30% more actionable insights for clients.
   - Crafted interactive Tableau & Power BI dashboards, enhancing decision-making by 25% through improved data pattern recognition.Created interactive Tableau      & Power BI dashboards, aiding clients in spotting data patterns, enhancing decision-making by 25%
 
@@ -31,11 +31,11 @@ Sri Sankara Arts and Science College
 CPGA – 8.6
 
 ### PROJECTS
-  T20 World Cup – Cricket Analysis [Python | Web scrapping | Pandas | Power BI] 
-  Walmart Sales Analysis–Sales Domain [SQL | EDA] 
-  Super Store Sales Insights & Forecasting - Sales Domain [Power BI | Excel] 
-  Revenue Insights - Hospitality Domain [Power BI | Excel] 
-  Covid 19 Vaccine Tracker – Healthcare Domain [Tableau | Excel]
+- T20 World Cup – Cricket Analysis [Python | Web scrapping | Pandas | Power BI]
+- Walmart Sales Analysis – Sales Domain [SQL | EDA]  
+- Super Store Sales Insights & Forecasting - Sales Domain [Power BI | Excel]
+- Revenue Insights - Hospitality Domain [Power BI | Excel]
+- Covid 19 Vaccine Tracker – Healthcare Domain [Tableau | Excel] 
 
 ### CERTIFICATIONS
 - DATA SCIENCE For Beginners (NASSCOM FutureSkills Prime)
