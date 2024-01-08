@@ -27,7 +27,7 @@ Shiash Info Solutions – Data Analyst Intern April 2023 – June 2023
 Guru Nanak College  
 CPGA – 8.6
 
-  - BCA - BACHELOR OF COMPUTER APPLICATIONS | 2019 – 2022  
+BCA - BACHELOR OF COMPUTER APPLICATIONS | 2019 – 2022  
 Sri Sankara Arts and Science College
 CPGA – 8.4
 
