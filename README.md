@@ -18,16 +18,18 @@ Shiash Info Solutions – Data Analyst Intern April 2023 – June 2023
   - Crafted interactive Tableau & Power BI dashboards, enhancing decision-making by 25% through improved data pattern recognition.Created interactive Tableau      & Power BI dashboards, aiding clients in spotting data patterns, enhancing decision-making by 25%
 
 ## SKILLS
-  - Python - Pandas, Numpy, Matplotlib ⮚ SQL - DDL, DML, TCL, JOINS
+  - Python - Pandas, Numpy, Matplotlib
+  - SQL - DDL, DML, TCL, JOINS
   - Tools - Excel, Power BI, Tableau 
 
 ## EDUCATION
-  - MCA - MASTER OF COMPUTER APPLICATIONS 2022 – 2024  
+  - MCA - MASTER OF COMPUTER APPLICATIONS | 2022 – 2024  
 Guru Nanak College  
 CPGA – 8.6
 
-- BCA - BACHELOR OF COMPUTER APPLICATIONS – BCA 2019 - 2022
-   Sri Sankara Arts and Science College, CGPA – 8.4
+- BCA - BACHELOR OF COMPUTER APPLICATIONS | 2019 - 2022
+Sri Sankara Arts and Science College
+CGPA – 8.4
 
 ## PROJECTS
 T20 World Cup – Cricket Analysis [Python | Web scrapping | Pandas | Power BI]
