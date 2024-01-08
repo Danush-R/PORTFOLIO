@@ -1,8 +1,8 @@
 # DANUSH RAJARAM
 
 +91 9444373027   Chennai, IN
-danush1503@gmail.com
-| LinkedIn | Portfolio | GitHub | NovyPro
+ danush1503@gmail.com
+ | LinkedIn | Portfolio | GitHub | NovyPro
 
 ## FUNCTIONAL AREA
 - |  Data Analysis  | Data Exploration |  Data Cleaning  |  Data Visualization
