@@ -31,7 +31,7 @@ Sri Sankara Arts and Science College
 CPGA – 8.6
 
 ### PROJECTS
-| T20 World Cup Cricket Analysis Python        | Web scrapping   | Power BI |  
+| T20_World_Cup_Cricket_Analysis_Python        | Web scrapping   | Power BI |  
 | Walmart Sales Analysis  Sales Domain         | SQL             |    EDA   |           
 | Super Store Sales Insights & Forecasting     | Power BI        |   Excel  |           
 | Revenue Insights  Hospitality Domain         | Power BI        |   Excel  |      
