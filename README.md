@@ -5,18 +5,18 @@
 +91 9444373027 danush1503@gmail.com
 Chennai, IN | LinkedIn | Portfolio | GitHub| NovyPro
 
-###FUNCTIONAL AREA
+##FUNCTIONAL AREA
 •Data Analysis   • Data Exploration
 •Data Cleaning   • Data Visualization
 
 ###EXPERIENCE
 Neubaitics Tech Pvt. Ltd – Data Analyst Intern December 2023 – present
-  • Led data collection, cleaning, and analysis, driving a 30% increase in data accuracy and a 20% improvement in insights generation.
-  • Developed compelling visual representations and detailed reports, resulting in a 40% increase in information comprehension and stakeholder engagement.
+• Led data collection, cleaning, and analysis, driving a 30% increase in data accuracy and a 20% improvement in insights generation.
+• Developed compelling visual representations and detailed reports, resulting in a 40% increase in information comprehension and stakeholder engagement.
 
 Shiash Info Solutions – Data Analyst Intern April 2023 – June 2023
-  • Managed the data analysis team, utilizing Python to process large datasets, delivering 30% more actionable insights for clients.
-  • Crafted interactive Tableau & Power BI dashboards, enhancing decision-making by 25% through improved data pattern recognition.Created interactive Tableau & Power BI dashboards, aiding clients in spotting data patterns, enhancing decision-making by 25%
+• Managed the data analysis team, utilizing Python to process large datasets, delivering 30% more actionable insights for clients.
+• Crafted interactive Tableau & Power BI dashboards, enhancing decision-making by 25% through improved data pattern recognition.Created interactive Tableau & Power BI dashboards, aiding clients in spotting data patterns, enhancing decision-making by 25%
 
 ###SKILLS
 •Python - Pandas, Numpy, Matplotlib ⮚ SQL - DDL, DML, TCL, JOINS
